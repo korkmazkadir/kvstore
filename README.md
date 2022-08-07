@@ -1,2 +1,2 @@
-# tuple-space
-An example tuple space implementation in golang for educational purposes.
+# kvstore
+An example key-value store implementation in golang for educational purposes.
